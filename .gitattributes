@@ -1,1 +1,3 @@
 test.txt linguist-language=Fortran
+java.sh linguist-language=LOLCODE
+shakespeare.asm linguist-language=Erlang

@@ -1,0 +1,9 @@
+POSTHUMUS LEONATUS
+
+    Not any, but abide the change of time,
+    Quake in the present winter's state and wish
+    That warmer days would come: in these sear'd hopes,
+    I barely gratify your love; they failing,
+    I must die much your debtor.
+
+; Enough commas to pass as assembly code
